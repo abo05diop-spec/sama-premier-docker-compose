@@ -20,6 +20,11 @@ Ce projet permet de déployer rapidement un environnement web complet comprenant
 ## 🇺🇸 English
 This project demonstrates how to quickly deploy a complete web environment featuring an *Nginx* web server and a *MySQL* database using Docker Compose. It serves as a foundation for learning system administration and container orchestration.
 
+![Docker](https://shields.io)
+![Nginx](https://shields.io)
+![MySQL](https://shields.io)
+![Linux](https://shields.io)
+
 ### Tech Stack:
 * *Nginx*: Web Server / Reverse Proxy
 * *MySQL*: Database
