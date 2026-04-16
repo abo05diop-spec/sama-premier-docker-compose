@@ -23,4 +23,11 @@ This project demonstrates how to quickly deploy a complete web environment featu
 ### Tech Stack:
 * *Nginx*: Web Server / Reverse Proxy
 * *MySQL*: Database
-* *Docker Compose*: Cont
+
+# 📬 Contact & Collaboration
+
+Si vous recherchez un *Administrateur Système* passionné par Docker et Linux, ou si vous souhaitez collaborer sur un projet, n'hésitez pas à me contacter :
+
+*   *📧 Email* : [abo05diop@icloud.com](mailto:abo05diop@icloud.com)
+*   *💬 WhatsApp* : [+221 78 459 21 31](https://wa.me)
+*   *🌍 Localisation* : Sénégal (Disponible pour du Remote / Télétravail
